@@ -3,7 +3,10 @@ import { triviasService } from "../Services/TriviasService.js";
 import { Pop } from "../Utils/Pop.js";
 
 
-
+// _drawQuestion() {
+//     let trivia = appState.trivias
+//     trivia.push()
+// }
 
 
 export class TriviasController {
