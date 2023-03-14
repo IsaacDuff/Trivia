@@ -1,11 +1,13 @@
 import { appState } from "../AppState.js";
 import { triviasService } from "../Services/TriviasService.js";
 import { Pop } from "../Utils/Pop.js";
+import { Trivia } from "../Models/Trivia.js";
 
 
-// _drawQuestion() {
-//     let trivia = appState.trivias
-//     trivia.push()
+
+
+// function _drawQuestion() {
+//     let question = appState.trivias
 // }
 
 
